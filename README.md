@@ -1,7 +1,7 @@
 # piCalculator
 A calculator for pi based on Newton's algorithm
 
--PiCalculator and PiCalculatorUnlimited classes basically do the same thing but PiCalculator uses double to store values while PiCalculatorUnlimited uses BigDecimal to store values so the precision is not limited by the precision of the double variables
+-PiCalculator and PiCalculatorUnlimited classes basically do the same thing but PiCalculator uses double to store values while PiCalculatorUnlimited uses BigDecimal to store values so the ultimate precision of the final value is not limited by the precision of the double variables
 
 -App.java contains the main method and some basic ways to test the workings of the pi calculator
 
